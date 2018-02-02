@@ -5,3 +5,7 @@ The GUI also can produce grayscale of those images and histogram of both of the 
 After matching both of the histograms, it shows the final histogram of the final image. 
 
 Finally it let you to save the final image. 
+
+There are some images with the project files. 
+
+The folder contains a .m file and a .fig file. Both of them are necessary to run the code perfectly. 
